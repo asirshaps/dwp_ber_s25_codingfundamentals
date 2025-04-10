@@ -82,18 +82,12 @@ print(type(pi_pi_pi))
 
 #b. Type conversion
 
-c="123"
-d=int(c)
-#print(c,d)
-#print(type(c,d))
-
-
-x=90
-print(type(x))
-
-y=str(x)
-print(y)
-print(type(y))
+my_str = "123"
+my_int = int(my_str)
+my_float_converted = float(my_int)
+print(my_str)
+print(my_int)
+print(my_float_converted)
 
 #5. CHALLENGE
 celsius = 37
