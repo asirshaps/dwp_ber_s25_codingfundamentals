@@ -33,3 +33,5 @@ Write a function to generate a random number.
 Write a function to ask the user for their guess.
 Write a function to check if the guess is correct, too high, or too low.
 Write a main function that loops until the user guesses correctly and provides feedback.
+
+
